@@ -2,8 +2,10 @@
 Unidirectional Monte Carlo Path Tracer
 Written by:
 - Edoardo Dominici (me)
-- www.github.com/c4stan
-Commits are [here](www.github.com/c4stan/terra). This is a mirror.
+- www.github.com/c4stan  
+
+Commits are [here](www.github.com/c4stan/terra).  
+This is a mirror.
 
 ### Features
 - Header only (C99 ~2.6k lines of code) tested on **Mingw64-6.2.0** **Clang-3.9.0** **MSVC2015**
