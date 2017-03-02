@@ -4,7 +4,7 @@ Written by:
 - Edoardo Dominici (me)
 - www.github.com/c4stan  
 
-Commits are [here](www.github.com/c4stan/terra).  
+Commits are [here](https://www.github.com/c4stan/terra).  
 This is a mirror.
 
 ### Features
