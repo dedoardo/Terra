@@ -1,0 +1,6 @@
+data/
+.vscode/
+backup/
+renderings/
+*.exe
+vs_solution/
