@@ -1,7 +1,7 @@
 # Terra 
 Unidirectional Monte Carlo Path Tracer
 Written by:
-- Edoardo Dominici (me)
+- www.github.com/sparkon (me)
 - www.github.com/c4stan  
 
 Commits are [here](https://www.github.com/c4stan/terra).  
