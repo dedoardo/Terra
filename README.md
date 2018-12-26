@@ -1,9 +1,4 @@
 # Terra 
-Unidirectional Monte Carlo Path Tracer
-Written by:
-- www.github.com/sparkon (me)
-- www.github.com/c4stan  
-
 Commits are [here](https://www.github.com/c4stan/terra).  
 This is a mirror.
 
@@ -21,7 +16,7 @@ This is a mirror.
 - Texturing and HDR environment mapping
 - Multiple importance sampling (direct light sampling)
 - Russian Roulette for path termination
-- Antialiasing via random sub-pixel jittering
+- Antialiasing via random sub-pixel jitterin
 - Multithread ready (see https://github.com/c4stan/TerraPreview)
 - Incremental rendering
 - Multiple (local) tonemapping operators (Linear, Reinhard, Filmic & Uncharted2)
@@ -40,6 +35,6 @@ Worker threads: 8 (1 per virtual core)
 ![](http://i.imgur.com/w4rndg8.jpg)
 
 ##### PBR Wood log (Textures: albedo/roughness/metalness) ~16k triangles (BSDF: Diffuse + Microfacet Specular)
-![](http://i.imgur.com/jAwVDVg.jpg)
+![](http://i.imgur.com/jAwVDVg.jp
 ##### Stanford bunny ~70k triangles (BSDF: Diffuse + Microfacet Specular)
 ![](http://i.imgur.com/N6FEfsB.jpg)
