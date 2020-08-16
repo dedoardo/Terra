@@ -35,6 +35,7 @@ Worker threads: 8 (1 per virtual core)
 ![](http://i.imgur.com/w4rndg8.jpg)
 
 ##### PBR Wood log (Textures: albedo/roughness/metalness) ~16k triangles (BSDF: Diffuse + Microfacet Specular)
-![](http://i.imgur.com/jAwVDVg.jp
+![](http://i.imgur.com/jAwVDVg.jpg)
+
 ##### Stanford bunny ~70k triangles (BSDF: Diffuse + Microfacet Specular)
 ![](http://i.imgur.com/N6FEfsB.jpg)
