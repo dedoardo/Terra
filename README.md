@@ -16,8 +16,8 @@ This is a mirror.
 - Texturing and HDR environment mapping
 - Multiple importance sampling (direct light sampling)
 - Russian Roulette for path termination
-- Antialiasing via random sub-pixel jitterin
-- Multithread ready (see https://github.com/c4stan/TerraPreview)
+- Antialiasing via random sub-pixel jittering
+- Multithread ready (see Satellite viewer)
 - Incremental rendering
 - Multiple (local) tonemapping operators (Linear, Reinhard, Filmic & Uncharted2)
 
