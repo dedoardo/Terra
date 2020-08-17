@@ -3,12 +3,9 @@ Commits are [here](https://www.github.com/c4stan/terra).
 This is a mirror.
 
 ### Features
-- Header only (C99 ~2.6k lines of code) tested on **Mingw64-6.2.0** **Clang-3.9.0** **MSVC2015**
-- Monte Carlo unidirectional integrator (global illumination, soft shadows, ambient occlusion, etc..)
-- Accelerators:
-    - BVH (Slower than K-D Tree for bigger scenes, but quicker at building)
-    - K-D Tree
-- Multiple BSDF presets:
+- Monte Carlo unidirectional integrator
+- Accelerators (BVH, KD-tree)
+- BSDF presets:
     - Diffuse (importance sampled cosine weighted)
     - Microfacet layered CT glossy (importance sampled)
     - Glass (RR reflection/refraction)
